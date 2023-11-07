@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Grupo 1",
+      "users": [
+        {
+          "id": 101,
+          "name": "Usuário 1"
+        },
+        {
+          "id": 102,
+          "name": "Usuário 2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Grupo 2",
+      "users": [
+        {
+          "id": 201,
+          "name": "Usuário 3"
+        }
+      ]
+    }
+  ]
+  
